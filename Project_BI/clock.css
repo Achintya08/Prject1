@@ -1,0 +1,25 @@
+body{
+    background-color:black ;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+#digital-clock{
+    background-color: whitesmoke;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    border-radius: 50px;
+}
+#main-h1{
+    color: whitesmoke;
+    margin-top: 20%;
+    font-size:50px;
+    
+}
+#time{
+    font-size: 80px;
+    
+}
+#date{
+    font-size: 40px;
+}
